@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SpinnerCascade</string>
+    <string-array name="spinnerRoot">
+        <item>numbers</item>
+        <item>animals</item>
+    </string-array>
+
+    <string-array name="numbers">
+        <item>one</item>
+        <item>two</item>
+    </string-array>
+
+    <string-array name="animals">
+        <item>cat</item>
+        <item>dog</item>
+    </string-array>
+</resources>
